@@ -16,3 +16,11 @@ background: green;
 width: 200px;
 padding: 10px;
 }
+a {
+    text-decoration: none; /* remove underlining on anchor tags */
+    color: crimson; /* pick the color you want */
+   }
+   .assign img {
+    padding: 10px; /* change this from margin to padding */
+    border: 2px dashed pink; /* try dashed, dotted */
+   }
